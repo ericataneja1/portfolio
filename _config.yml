@@ -1,4 +1,6 @@
-title: Erica Taneja
-Logo: /assests/img/Image circle.png
+name: "Erica Taneja"
+title: "Business Intelligence Analyst"
+image:
+path: "/assests/img/Image circle.png"
 #description: texxt
 theme: jekyll-theme-minimal
