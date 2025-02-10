@@ -8,22 +8,15 @@ Detail-oriented Business Intelligence Analyst with over four years of experience
 
 ## Skills
 
-- **Business Intelligence Reports | Dashboards**
-- **Data Extraction** (SQL, Alteryx, Azure Data Factory)
-- **Data Analytics | Data Modeling**
-- **Storytelling | Data Visualization | Insights**
-- **Python | R | Power BI | Tableau**
-- **Azure Cloud Infrastructure** (Data lakes, data factory, SQL Warehouse)
-- **Stakeholder Collaboration | Influence | Presentation**
-- **Stakeholder Engagement | Requirements Gathering**
-- **KPI Development & Performance Tracking**
-- **Strategic Analysis & Critical Thinking**
-- **Report Lifecycle Management & Governance**
-- **A/B testing | UAT testing | Regression analysis**
-- **Advanced Excel and MS Office Suite**
-- **Technical Documentation | Business Case**
-- **Problem Solving | Process Optimization | Process Automation**
-- **BI System Maintenance | Troubleshooting | SLA Management**
+### Tools & Technologies
+- Power BI, Tableau, Python, R, SQL, Alteryx, Azure Data Factory
+
+### Data Management
+- Data Analytics, Data Modeling, Data Visualization, Storytelling
+
+### Stakeholder Management
+- Stakeholder Collaboration, KPI Development, Presentation, Influence
+
 
 ---
 
@@ -79,7 +72,7 @@ Detail-oriented Business Intelligence Analyst with over four years of experience
 
 ## Projects
 
-- **[Furniture Sales Data Analysis Using PowerBI]**(https://ericataneja1.github.io/Projects/)
+- **[Furniture Sales Data Analysis Using PowerBI](https://ericataneja1.github.io/Projects/)**
 
 ---
 
@@ -99,7 +92,7 @@ Detail-oriented Business Intelligence Analyst with over four years of experience
 
 ### Contact
 
-Feel free to reach out via [LinkedIn] (https://www.linkedin.com/in/erica-taneja/) or email me at [ericataneja@gmail.com].
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/erica-taneja/) or email me at [ericataneja@gmail.com].
 
 ---
 
