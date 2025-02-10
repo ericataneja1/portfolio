@@ -1,7 +1,7 @@
 ![Image circle](https://github.com/user-attachments/assets/53ceab43-5bb9-4094-b607-01f68e0f1466)
 
 
-# Business Intelligence Analyst Portfolio
+
 
 ## About Me
 
