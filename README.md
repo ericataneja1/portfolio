@@ -1,4 +1,5 @@
-# Business Intelligence Analyst Portfolio
+![Uploading Image circle.png…]()
+                                          # Business Intelligence Analyst Portfolio
 
 ## About Me
 
