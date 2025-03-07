@@ -1,5 +1,5 @@
 ![Image circle](https://github.com/user-attachments/assets/53ceab43-5bb9-4094-b607-01f68e0f1466)
-![Green and Beige Career Development Roadmap Infographic](https://github.com/user-attachments/assets/img/Green and Beige Career Development Roadmap Infographic)
+![Roadmap](https://github.com/user-attachments/assets/img/Roadmap)
 
 
 ## About Me
