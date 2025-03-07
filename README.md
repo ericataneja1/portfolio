@@ -1,5 +1,7 @@
-![Image circle](https://github.com/user-attachments/assets/53ceab43-5bb9-4094-b607-01f68e0f1466)
-![Roadmap](https://github.com/user-attachments/assets/img/Roadmap)
+
+
+
+![roadmap](https://github.com/user-attachments/assets/3e66e88c-cb00-4f86-b834-88b632e6f9ba)
 
 
 ## About Me
