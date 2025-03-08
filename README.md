@@ -9,8 +9,10 @@
 
 ## Projects
 
+- **[Supply Chain Optimisation](https://ericataneja1.github.io/SypplyChainOptimisation/)**
+- **[Managing Change in Master Data](https://ericataneja1.github.io/Impact-Analysis/)**
+- **[Automating Inventory Reconciliation](https://ericataneja1.github.io/Automated-Inventory-Recon/)**
 - **[Furniture Sales Data Analysis Using PowerBI](https://ericataneja1.github.io/Projects/)**
-
 
 
 
