@@ -18,9 +18,8 @@
 
 
 ## Top 5 Clifton Strengths
-- Learner | Responsibility | Ideation | Analytical | Restorative
 
----
+Learner | Responsibility | Ideation | Analytical | Restorative
 
 ### Contact
 
