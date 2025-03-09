@@ -1,7 +1,4 @@
 title: "Erica Taneja"
-#Logo: /assets/img/Image circle.png
-#path: "assets/img/Image circle.png"
-#alt: "Profile Image"
 LinkedIn: "https://www.linkedin.com/in/erica-taneja/"
 email: "ericataneja@gmail.com"
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
