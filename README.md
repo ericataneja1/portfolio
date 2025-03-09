@@ -1,7 +1,8 @@
 
 
 
-![Roadmap](https://github.com/user-attachments/assets/bed6dd73-dc67-4988-9171-289f3190a0de)
+![Green and Beige Career Development Roadmap Infographic (1)](https://github.com/user-attachments/assets/4953bce7-59b6-40f7-9fe1-51413096f1e5)
+
 
 
 
